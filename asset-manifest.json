@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/funcanvas/static/css/main.073c9b0a.css",
-    "main.js": "/funcanvas/static/js/main.43172ed0.js",
-    "static/js/787.c91fa3bd.chunk.js": "/funcanvas/static/js/787.c91fa3bd.chunk.js",
-    "index.html": "/funcanvas/index.html",
-    "main.073c9b0a.css.map": "/funcanvas/static/css/main.073c9b0a.css.map",
-    "main.43172ed0.js.map": "/funcanvas/static/js/main.43172ed0.js.map",
-    "787.c91fa3bd.chunk.js.map": "/funcanvas/static/js/787.c91fa3bd.chunk.js.map"
+    "main.css": "/funCanvas/static/css/main.073c9b0a.css",
+    "main.js": "/funCanvas/static/js/main.ae1a6f2c.js",
+    "static/js/787.c91fa3bd.chunk.js": "/funCanvas/static/js/787.c91fa3bd.chunk.js",
+    "index.html": "/funCanvas/index.html",
+    "main.073c9b0a.css.map": "/funCanvas/static/css/main.073c9b0a.css.map",
+    "main.ae1a6f2c.js.map": "/funCanvas/static/js/main.ae1a6f2c.js.map",
+    "787.c91fa3bd.chunk.js.map": "/funCanvas/static/js/787.c91fa3bd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.43172ed0.js"
+    "static/js/main.ae1a6f2c.js"
   ]
 }
