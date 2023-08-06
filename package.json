@@ -1,6 +1,6 @@
 {
-  "homepage":"https://rim.github.io/funCanvas",
-  "name": "reactcreateapp",
+  "homepage":"https://heyrim.github.io/funCanvas",
+  "name": "funCanvas",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

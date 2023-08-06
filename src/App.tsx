@@ -7,6 +7,7 @@ function App() {
       <header className="App-header">
         <p>funCanvas.</p>
       </header>
+        <div id={"chart"}></div>
     </div>
   );
 }
