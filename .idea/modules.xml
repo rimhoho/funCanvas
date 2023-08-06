@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/reactcreateapp.iml" filepath="$PROJECT_DIR$/.idea/reactcreateapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/funCanvas.iml" filepath="$PROJECT_DIR$/.idea/funCanvas.iml" />
     </modules>
   </component>
 </project>
